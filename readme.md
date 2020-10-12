@@ -1,6 +1,4 @@
-## About Bullentine Board Project
-
-Vue and Vuex CRUD for testing
+## About Vue and Vuex CRUD for testing
 
 ## Installtion
 - git clone https://github.com/aungthuramoe/laravelTest.git
